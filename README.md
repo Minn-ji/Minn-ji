@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h3>Hello🖐 I’m Min-ji from Seoul, Korea.</h3>
+  <h3>Hi I’m Minji choi from Seoul, Korea.</h3>
   <hr>
   <h3>Tech Stack</h3>
 <!-- **Language**<br> -->
